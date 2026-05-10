@@ -3,13 +3,13 @@
     "savepath": "reimagined_online"
     /*
 --My Mod Details--
-Mod Download: https://github.com/yinyin333333/d2r-reimagined-online/archive/refs/heads/main.zip
-Mod Config Download: https://github.com/yinyin333333/d2r-reimagined-online/raw/refs/heads/main/reimagined_online.mpq/modinfo.json
+Mod Download: https://github.com/yinyin333333/d2r-reimagined-online-kr/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/yinyin333333/d2r-reimagined-online-kr/raw/refs/heads/main/reimagined_online.mpq/modinfo.json
 Mod Version: 3.0.9.C
 News 1 Title: "3.0.9.C Update"
-News 1 Message: "Fixed the visual issues for Torch drops and Comet's missing effects, along with the broken sprite for the Grandfather sword."
-News 2 Title: "Reimagined Online with D2rLan"
-News 2 Message: "Few function Activation\nAuto Corpse Recovery-Automatically recovers your corpse upon death, with all items except gold remaining equipped.\nRune drops from the Hellforge will be expanded\nNormal-Eth Rune to Hel Rune\nNightmare-Hel Rune to Gul Rune\nHell-Mal Rune to Zod Rune"
+News 1 Message: "할배검 그래픽이슈, 횃불의 드랍이슈, 혜성 비주얼이 수정되었습니다."
+News 2 Title: "Reimagined Online 커스텀 with D2rLan"
+News 2 Message: "리매진드갤러리 커스텀 버전은 정식버전을 그대로 따라가지 않고, 갤러분들의 의견을 반영 혹은 직접 수정하신 것들을 토대로 가장 플레이하기에 즐거운쪽으로 맞춰나갈 예정입니다. 디스코드에서 많은 의견과 참여 부탁드립니다."
  
 --General Options--
 Map Layouts: Disabled
@@ -24,7 +24,7 @@ HUD Display: Enabled
 Monster Stats Display: Enabled
 
 --Author Links--
-Discord: https://discord.gg/5c2GrFQReE
+Discord: https://discord.gg/GXG8DwsUSg
 Wiki: https://wiki.d2r-reimagined.com/
 
 */
