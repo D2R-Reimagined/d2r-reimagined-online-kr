@@ -1,0 +1,32 @@
+{
+    "name": "reimagined_online",
+    "savepath": "reimagined_online"
+    /*
+--My Mod Details--
+Mod Download: https://github.com/yinyin333333/d2r-reimagined-online/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/yinyin333333/d2r-reimagined-online/raw/refs/heads/main/reimagined_online.mpq/modinfo.json
+Mod Version: 3.0.9.C
+News 1 Title: "3.0.9.C Update"
+News 1 Message: "Fixed the visual issues for Torch drops and Comet's missing effects, along with the broken sprite for the Grandfather sword."
+News 2 Title: "Reimagined Online with D2rLan"
+News 2 Message: "Few function Activation\nAuto Corpse Recovery-Automatically recovers your corpse upon death, with all items except gold remaining equipped.\nRune drops from the Hellforge will be expanded\nNormal-Eth Rune to Hel Rune\nNightmare-Hel Rune to Gul Rune\nHell-Mal Rune to Zod Rune"
+ 
+--General Options--
+Map Layouts: Disabled
+UI Themes: Disabled
+Customizations: Disabled
+Vault Access: Disabled
+
+--Additional Options--
+Item Icons: Disabled
+Runeword Sorting: Disabled
+HUD Display: Enabled
+Monster Stats Display: Enabled
+
+--Author Links--
+Discord: https://discord.gg/5c2GrFQReE
+Wiki: https://wiki.d2r-reimagined.com/
+
+*/
+
+}
