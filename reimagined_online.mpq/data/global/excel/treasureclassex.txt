@@ -34,11 +34,11 @@ Jewelry B			1					25	rin	175	amu	75	jew	50	cm3	50	cm2	50	cm1	50	Jewelry Orbs Sta
 Jewelry C			1					25	rin	150	amu	74	jew	74	cm3	49	cm2	49	cm1	49	Jewelry Orbs Stack	30													0
 Gem			1					0	gmm	1	gmt	1	gms	1	gme	1	gmd	1	gmr	1	gmk	1	gmo	1											0
 Gem Stack			0					0	1am	1	1tp	1	1sa	1	1em	1	1di	1	1rb	1	1sk	1	1so	1											0
-Misc			1					0	gld	1	gld	1	Void	2																					0
-Potion 1			1					0	gld	10	gld	5	gld	10	gld	5	rvs	2	Void	8															0
-Potion 2			1					0	gld	10	gld	5	gld	10	gld	5	rvs	2	Void	16															0
-Potion 3			1					0	gld	10	gld	5	gld	10	gld	5	rvs	2	Void	32															0
-Potion 4			1					0	gld	10	gld	10	rvl	2	Void	32																			0
+Misc			1					2	tsc	0	isc	0	Void	2																					0
+Potion 1			1					30	hp1	0	hp2	0	mp1	0	mp2	0	rvs	2	Void	8															0
+Potion 2			1					30	hp2	0	hp3	0	mp2	0	mp3	0	rvs	2	Void	16															0
+Potion 3			1					30	hp3	0	hp4	0	mp3	0	mp4	0	rvs	2	Void	32															0
+Potion 4			1					20	hp5	0	mp5	0	rvl	2	Void	32																			0
 Normal Potion	12		2					0	Potion 2	1																									0
 Good Potion	12	40	2					0	Potion 3	1																									0
 Super Potion	12	70	2					0	Potion 4	1																									0
