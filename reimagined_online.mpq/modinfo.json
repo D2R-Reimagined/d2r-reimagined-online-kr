@@ -5,11 +5,11 @@
 --My Mod Details--
 Mod Download: https://github.com/D2R-Reimagined/d2r-reimagined-online-kr/archive/refs/heads/main.zip
 Mod Config Download: https://github.com/D2R-Reimagined/d2r-reimagined-online-kr/raw/refs/heads/main/reimagined_online.mpq/modinfo.json
-Mod Version: 3.0.9.D
-News 1 Title: "3.0.9.D Update"
-News 1 Message: "잡템제거 방식 변경하여 기존 나이트메어 엘리트드랍 이슈대응테스트 및 로우퀄리티 드랍 제거"
+Mod Version: 3.0.9.E
+News 1 Title: "3.0.9.E Update"
+News 1 Message: "지난 테러존 이슈를 고치면서 네크의 시체저주 소환에서 아이템드랍이 되던점 수정되었습니다. 그리고 누락 혹은 제외되었던 3개의 세트아이템이 추가되었습니다.(사인세트 호라존세트 워로드세트) 또한 QoL의 일부 기능을 비활성화합니다. 액트5 마을에서 나가면 있던 횃불트리스트럼포탈과 액트2의 마고트레어 3층직행 기능 제거"
 News 2 Title: "Reimagined Online 커스텀 with D2rLan"
-News 2 Message: "리매진드갤러리 커스텀 버전은 정식버전을 그대로 따라가지 않고, 갤러분들의 의견을 반영 혹은 직접 수정하신 것들을 토대로 가장 플레이하기에 즐거운쪽으로 맞춰나갈 예정입니다. 디스코드에서 많은 의견과 참여 부탁드립니다."
+News 2 Message: "리매진드갤러리 커스텀 버전은 정식버전을 그대로 따라가지 않고, 갤러분들의 의견을 반영 혹은 직접 수정하신 것들을 토대로 가장 플레이하기에 즐거운쪽으로 맞춰나갈 예정입니다. 리매진드 갤러리 및 디스코드에서 많은 의견과 참여 부탁드립니다."
  
 --General Options--
 Map Layouts: Disabled
