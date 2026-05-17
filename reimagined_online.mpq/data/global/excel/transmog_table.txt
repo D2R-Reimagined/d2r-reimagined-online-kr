@@ -930,7 +930,7 @@ index	code_name	code_normal	sets_normal	sets_exceptional	sets_elite	uniques_norm
 929	mc_auleys_riprap		boot/heavy_boots	boot/heavy_boots	boot/heavy_boots			
 930	mc_auleys_taboo		glove/heavy_gloves	glove/heavy_gloves	glove/heavy_gloves			
 931	mc_auleys_superstition		wand/gravenspine	wand/gravenspine	wand/gravenspine			
-932	horazons_secrets		grimoires/ars_torbaalos	grimoires/ars_torbaalos	grimoires/ars_torbaalos			
+932	horazons_secrets		shield/bone_shield	shield/bone_shield	shield/bone_shield			
 933	horazons_legacy		boot/light_plate_boots	boot/light_plate_boots	boot/light_plate_boots			
 934	horazons_hold		glove/gloves_l	glove/gloves_l	glove/gloves_l			
 935	horazons_dominion		armor/splint_mail	armor/splint_mail	armor/splint_mail			
