@@ -105,6 +105,17 @@
       "Values": "9090909090",
       "OriginalValues": "E825C3FFFF",
       "ModdedValues": "9090909090"
-    }      
+    },
+    {
+      "Name": "Make Energy Shield not disable on 0 mana",
+      "Description": "This will make energy shield not disable itself anymore when the player reaches 0 mana.",
+      "Category": "Alteration",
+      "Address": "38221e",
+      "Length": 8,
+      "Type": "Hex",
+      "Values": "9090E90F01000090",
+      "OriginalValues": "85FF0F8F0E010000",
+      "ModdedValues": "9090E90F01000090"
+    }    
 ]
 }
