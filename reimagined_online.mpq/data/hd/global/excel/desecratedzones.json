@@ -202,13 +202,7 @@
                         {
                             /* Tristram */
                             "level_id": 38
-                        }
-                    ]
-                },
-                {
-                    /* act2 */
-                    "id": 2,
-                    "levels": [
+                        },
                         {
                             /* Rocky Waste */
                             "level_id": 41
@@ -344,13 +338,7 @@
                         {
                             /* Arcane Sanctuary */
                             "level_id": 74
-                        }
-                    ]
-                },
-                {
-                    /* act3 */
-                    "id": 3,
-                    "levels": [
+                        },
                         {
                             /* Spider Forest */
                             "level_id": 76
@@ -458,13 +446,7 @@
                         {
                             /* Durance Of Hate Level 3 */
                             "level_id": 102
-                        }
-                    ]
-                },
-                {
-                    /* act4 */
-                    "id": 4,
-                    "levels": [
+                        },
                         {
                             /* Outer Steppes */
                             "level_id": 104
@@ -488,13 +470,11 @@
                         {
                             /* Moo Moo Farm */
                             "level_id": 39
-                        }
-                    ]
-                },
-                {
-                    /* act5 */
-                    "id": 5,
-                    "levels": [
+                        },
+                        {
+                            /* Moo Moo Farm */
+                            "level_id": 138
+                        },
                         {
                             /* Bloody Foothills */
                             "level_id": 110
@@ -588,7 +568,7 @@
                             "level_id": 132
                         }
                     ]
-                }      
+                }
             ]
         }
     ],
@@ -607,7 +587,7 @@
         },
         {
             "name": "Act 4 & Cows",
-            "levels": [104,105,106,107,108,39]
+            "levels": [104,105,106,107,108,39,138]
         },
         {
             "name": "Act 5",
@@ -751,7 +731,8 @@
         { "id": 133, "name": "Matron's Den" },
         { "id": 134, "name": "Forgotten Sands" },
         { "id": 135, "name": "Furnace of Pain" },
-        { "id": 136, "name": "Tristram 2" }
+        { "id": 136, "name": "Tristram 2" },
+        { "id": 138, "name": "Moo Moo Maze" }
     ],
     "stat_adjustments": [ 
         {
